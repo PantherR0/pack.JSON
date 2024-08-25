@@ -1,0 +1,10 @@
+{
+	"name": "Grimm",
+	"description": "Hollow knight Grimm theme",
+	"author": "pantherR0",
+	"version": "V1.0",
+	"manifest_version": 2,
+	"music": true,
+	"ignore": [],
+	"mappings": {},
+}
